@@ -1,0 +1,6 @@
+@TaskForceHM_WEBAPI_HostAddress = http://localhost:5015
+
+GET {{TaskForceHM_WEBAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
